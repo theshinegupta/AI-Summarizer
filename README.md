@@ -1,3 +1,3 @@
 # AI-Summarizer
 
-Click To Summarize --> https://gleaming-raindrop-5b5e98.netlify.app/
+Click To Summarize --> https://lighthearted-jalebi-6d5b17.netlify.app/
